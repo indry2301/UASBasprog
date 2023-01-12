@@ -45,11 +45,13 @@
 ## Tampilan Awal
 <img width="580" alt="tampilan_awal" src="https://user-images.githubusercontent.com/115906333/212092998-ab12759c-c788-4280-bc8e-df487e95147b.png">.
 ## Tampilan Tambah Data
-- Disini saya akan menambahkan 3 data mahasiswa.
+- Disini saya akan menambahkan 3 data mahasiswa
+
 <img width="589" alt="menu_tambah(1)" src="https://user-images.githubusercontent.com/115906333/212093152-2b3ce1f5-5737-48e7-a644-8772f466b148.png">.
 <img width="560" alt="menu_tambah(2)" src="https://user-images.githubusercontent.com/115906333/212093232-2706bd6b-3579-4d25-b785-09dc206dde9a.png">.
 ## Menu Lihat Setelah Ditambahkan Data
 - Terlihat ada 3 data mahasiswa yang selesai ditambahkan.
+
 <img width="563" alt="menu_lihat(setelahtambah)" src="https://user-images.githubusercontent.com/115906333/212093447-a403c3e6-6a18-4622-9d64-9433187d7fb5.png">.
 ## Tampilan Ubah Data
 - Masukkan data nama mahasiswa yang ingin diubah datanya, dan nilai mana yang akan diubah.
@@ -57,10 +59,12 @@
 <img width="565" alt="menu_ubah" src="https://user-images.githubusercontent.com/115906333/212093664-5dfe8ca0-e292-4470-890f-1e80b62962b5.png">.
 ## Menu Lihat Setelah Data Diubah
 - Terlihat bahwa data nilai UAS widi sudah berubah.
+
 <img width="564" alt="menu_lihat(setelahubah)" src="https://user-images.githubusercontent.com/115906333/212093978-b82a5e6f-aacb-4fa9-af07-4bc6bf759ecd.png">.
 ## Tampilan Cari Data
 - Masukkan nama untuk mencari data.
 - Disini saya mencari data dengan nama widi.
+
 <img width="566" alt="menu_cari" src="https://user-images.githubusercontent.com/115906333/212094087-2ff9ee34-b78d-4e8a-be65-976c6536f446.png">.
 ## Tampilan Hapus Data
 - Masukkan nama yang ingin dihapus datanya.
@@ -68,7 +72,7 @@
 <img width="570" alt="menu_hapus" src="https://user-images.githubusercontent.com/115906333/212094293-decf50ef-04f9-4977-b543-331386657776.png">.
 ## Menu Lihat Setelah Data Dihapus
 - Dan dibawah ini tampilan menu lihat setelah data atas nama yani dihapus.
-<img width="558" alt="menu_lihat(setelahhapus)" src="https://user-images.githubusercontent.com/115906333/212094593-4df06acd-5f01-48f7-a8d7-d23f4753f006.png">
+<img width="558" alt="menu_lihat(setelahhapus)" src="https://user-images.githubusercontent.com/115906333/212094593-4df06acd-5f01-48f7-a8d7-d23f4753f006.png">.
 ## Tampilan Keluar
 <img width="564" alt="menu_keluar" src="https://user-images.githubusercontent.com/115906333/212094416-193dd4a1-4194-4c80-9388-090fc990c788.png">.
 
