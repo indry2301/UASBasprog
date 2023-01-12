@@ -45,7 +45,7 @@
 ## Tampilan Awal
 <img width="580" alt="tampilan_awal" src="https://user-images.githubusercontent.com/115906333/212092998-ab12759c-c788-4280-bc8e-df487e95147b.png">.
 ## Tampilan Tambah Data
-- Disini saya menambahkan 3 data mahasiswa.
+- Disini saya akan menambahkan 3 data mahasiswa.
 <img width="589" alt="menu_tambah(1)" src="https://user-images.githubusercontent.com/115906333/212093152-2b3ce1f5-5737-48e7-a644-8772f466b148.png">.
 <img width="560" alt="menu_tambah(2)" src="https://user-images.githubusercontent.com/115906333/212093232-2706bd6b-3579-4d25-b785-09dc206dde9a.png">.
 ## Menu Lihat Setelah Ditambahkan Data
