@@ -39,4 +39,6 @@
 - menambahkan fungsi input yang nantinya akan di deklarasikan di setiap modulenya, def input_nama(): def input_nim(): dan yang lainnya, yang nanti akan di masukkan kedalam data={}.
 ## View (view_nilai)
 - deklarasikan fungsi def lihat_data(): kita menggunakan kondisi percabangan if, ambil data dari data - lalu cetak print().
-## main.py
+## Code Main
+![code](https://user-images.githubusercontent.com/115906333/212092109-90b74e5a-4608-4598-800c-0f81d1d7ea18.png).
+
