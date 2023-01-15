@@ -2,8 +2,8 @@
 ## Nama  : Indry Widiyani
 ## NIM   : 312210060
 ## Kelas : TI.22.C1
-# Link Youtube: https://youtu.be/sLfhZtNCq9E
-# Tutorial File PDF: [PROJEK UAS BAHASA PEMROGRAMAN.pdf](https://github.com/indry2301/UASBasprog/files/10419380/PROJEK.UAS.BAHASA.PEMROGRAMAN.pdf)
+## Link Youtube: https://youtu.be/sLfhZtNCq9E
+## Tutorial File PDF: [PROJEK UAS BAHASA PEMROGRAMAN.pdf](https://github.com/indry2301/UASBasprog/files/10419380/PROJEK.UAS.BAHASA.PEMROGRAMAN.pdf)
 
 # Struktur Package & Modul
 <img width="258" alt="package_model view" src="https://user-images.githubusercontent.com/115906333/211852419-85c7bb5c-0212-4e53-862b-398d41198c54.png">
